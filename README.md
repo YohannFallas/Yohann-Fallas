@@ -1,10 +1,10 @@
 # Yohann-Fallas.github.io
 
   
-  <h1 align="center">Hi 👋, I'm Yohann Fallas</h1>
+<h1 align="center">Hi 👋, I'm Yohann Fallas</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on **Noveo Pgi**
+<h3>- 🔭 I’m currently working on Noveo Pgi</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
