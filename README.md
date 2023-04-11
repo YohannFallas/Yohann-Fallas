@@ -1,6 +1,5 @@
 # Yohann-Fallas.github.io
 
-<h1>Hello World<h1>
   
   <h1 align="center">Hi 👋, I'm Yohann Fallas</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
